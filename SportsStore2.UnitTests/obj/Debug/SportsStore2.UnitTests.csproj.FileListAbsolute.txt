@@ -1,0 +1,2 @@
+C:\Users\LENOVO\source\repos\SportsStore2.UnitTests\obj\Debug\SportsStore2.UnitTests.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\SportsStore2.UnitTests\obj\Debug\SportsStore2.UnitTests.csproj.CoreCompileInputs.cache
